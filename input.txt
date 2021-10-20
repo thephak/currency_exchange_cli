@@ -1,0 +1,3 @@
+{ "value": 10, "currency": "EUR" }
+{ "value": 100, "currency": "USD" }
+{ "value": 1000, "currency": "JPY" }
